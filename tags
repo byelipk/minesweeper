@@ -1,0 +1,33 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+MineSweeper	minesweeper.js	/^class MineSweeper {$/;"	c
+_countAjacentMines	minesweeper.js	/^  _countAjacentMines(row, col) {$/;"	f
+_getRandomCell	minesweeper.js	/^  _getRandomCell() {$/;"	f
+_getRandomInt	minesweeper.js	/^  _getRandomInt(min, max) {$/;"	f
+_initialize	minesweeper.js	/^  _initialize() {$/;"	f
+_isMine	minesweeper.js	/^  _isMine(row, col) {$/;"	f
+_isValidCell	minesweeper.js	/^  _isValidCell(row, col) {$/;"	f
+_parse	minesweeper.js	/^  _parse(line) {$/;"	f
+_placeMines	minesweeper.js	/^  _placeMines() {$/;"	f
+_processLine	minesweeper.js	/^  _processLine(line, movesCount, rl) {$/;"	f
+_recurse	minesweeper.js	/^  _recurse(row, col, rl) {$/;"	f
+_replaceMine	minesweeper.js	/^  _replaceMine(row, col, symbol) {$/;"	f
+constructor	minesweeper.js	/^  constructor() {$/;"	f
+for	minesweeper.js	/^      for (let j = 0; j < this.sides; j++) {$/;"	f
+for	minesweeper.js	/^      for (var j = 0; j < this.sides; j++) {$/;"	f
+for	minesweeper.js	/^    for (let i = 0; i < this.sides; i++) {$/;"	f
+for	minesweeper.js	/^    for (var i = 0; i < this.sides; i++) {$/;"	f
+if	minesweeper.js	/^      if (this.gameBoard[cell[0]][cell[1]] !== "*") {$/;"	f
+if	minesweeper.js	/^      if (this.gameBoard[cell[0]][cell[1]] === '-') {$/;"	f
+if	minesweeper.js	/^    else if (this.gameBoard[row][col] === "*") {$/;"	f
+if	minesweeper.js	/^    if (gameOver) {$/;"	f
+if	minesweeper.js	/^    if (movesCount === 0) {$/;"	f
+if	minesweeper.js	/^    if (this.playerBoard[row][col] !== "-") {$/;"	f
+play	minesweeper.js	/^  play() {$/;"	f
+print	minesweeper.js	/^  print(board) {$/;"	f
+while	minesweeper.js	/^    while (!swapped) {$/;"	f
+while	minesweeper.js	/^    while (i < this.mines) {$/;"	f
